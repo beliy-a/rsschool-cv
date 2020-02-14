@@ -1,0 +1,68 @@
+::before,
+::after,
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 15px;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #D1D3D4;
+    color: #1A2026;
+}
+
+.wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+
+/* blocks start photo */
+.photo {
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.photo__face {
+    width: 100%;
+    display: block;
+}
+/* block end photo */
+
+
+
+/* header start */
+.header__conteiner {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, 50px);
+    overflow: hidden;
+}
+
+.header__photo {
+    width: 250px;
+    height: 250px;
+    box-shadow: 0 5px 15px gray;
+    grid-column: 1 / 2 ;
+    grid-row: 1 / span -1;
+}
+
+.header__place-of-residence {
+   grid-column: 3 / 4;
+   grid-row: 3 / 4;
+   justify-self: end;
+}
+
+.header__email {
+    font-size: 1.3rem;
+    font-weight: 700;
+    grid-column: 3 / 4;
+    grid-row: 4/ 5;
+    justify-self: end;
+}
+/* header end */
