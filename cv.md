@@ -32,3 +32,4 @@
 | **Driver’s license:** | Yes |
 |--|--|
 | **Future professional plans**: | *Progress in actual front-end technologies, learning new frameworks, growth in «horizontal» direction* |
+|**Hobbies** |*At the moment, my hobbies are Front-end Development and learning English* | 
