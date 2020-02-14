@@ -28,3 +28,7 @@
 |  | *Website development using HTML, CSS and JavaScript* |
 |**October 2019 — January- 2020**  **:** |**IT-Academy**|
 ||*Web application development on JavaScript*|
+## *Additional info*
+| **Driver’s license:** | Yes |
+|--|--|
+| **Future professional plans**: | *Progress in actual front-end technologies, learning new frameworks, growth in «horizontal» direction* |
