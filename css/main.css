@@ -67,7 +67,15 @@ body {
 }
 /* header end */
 
+
+
+
 /* main start */
+.main {
+    margin-bottom: 20px;
+}
+
+/* main end */
 
 
 /* table start */ 
@@ -96,3 +104,11 @@ body {
 }
 
 /* table end */
+
+
+/* footer start */
+
+.footer {
+    padding: 20px 0;
+    text-align: center;
+}
