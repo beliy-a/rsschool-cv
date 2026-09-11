@@ -1,25 +1,30 @@
-# Александр Белый
+# Alexander Bely
 
 ![](https://avatars.githubusercontent.com/u/49448771?v=4)
 
-## Контакты
+## Contacts
+- Minsk, Belarus
 - Email: beliy.san9l@ya.ru
 - Github: [github.com/beliy-a](https://github.com/beliy-a)
 - Discord: Alexander Beliy
 
-## О себе
-Начинающий frontend-разработчик. Цель — стать профессиональным разработчиком и работать в команде над интересными проектами.
+## About Me
+Aspiring frontend developer. My goal is to become a professional developer and work in a team on exciting projects.
 
-## Навыки
-- **Языки:** JavaScript (ES6+), HTML5, CSS3
-- **Фреймворки:** React (базовый)
-- **Инструменты:** Git, GitHub, VS Code, Figma
-- **Методологии:** Agile, Scrum
+## Skills
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frameworks:** React (базовый)
+- **Tools:** Git, GitHub, VS Code, Figma
+- **Methodologies:** Agile, Scrum
 
-## Пример кода
-Решение задачи с Codewars:
+## Code Examples
 ```javascript
 function multiply(a, b) {
     return a * b;
 }
 ```
+## Courses
+Web Application Development On Javascript, Educational Center Of HTP "IT Academy"
+
+## English Level
+A2 (Pre-Intermediate)
